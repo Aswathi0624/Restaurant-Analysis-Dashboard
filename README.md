@@ -42,6 +42,8 @@ This project presents an interactive **data analytics dashboard** to analyze res
 
 <img width="1269" height="713" alt="Home" src="https://github.com/user-attachments/assets/c2962c97-3095-4948-b81d-47c0d58bc1de" />
 
+
+
 <img width="1367" height="768" alt="Dining" src="https://github.com/user-attachments/assets/75df80d8-6b03-4bec-a818-ff1068741dc4" />
 
 <img width="1366" height="769" alt="Hospitality" src="https://github.com/user-attachments/assets/75b02179-0309-416c-995b-7aaf527146fe" />
